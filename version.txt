@@ -1,0 +1,5 @@
+{
+    "version": "v1.4.3",
+    "download_url": "https://github.com/syahiranhasif/crc32verification/releases/latest/download/CRC32_verification.exe",
+    "notes": "Side-by-side presets + UI improvements"
+}
